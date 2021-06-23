@@ -1,0 +1,12 @@
+{
+  "name": "bookExchange",
+  "displayName": "bookExchange",
+  "expo": {
+    "name": "bookExchange",
+    "slug": "bookExchange",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
